@@ -1,0 +1,12 @@
+{
+	"dataModel.Environment": "https://raw.githubusercontent.com/smart-data-models/dataModel.Environment/master/context.jsonld",
+	"dataModel.WaterConsumption": "https://raw.githubusercontent.com/smart-data-models/dataModel.WaterConsumption/master/context.jsonld",
+	"dataModel.WaterQuality" : "https://raw.githubusercontent.com/smart-data-models/dataModel.WaterQuality/master/context.jsonld",
+	"dataModel.Weather" : "https://raw.githubusercontent.com/smart-data-models/dataModel.Weather/master/context.jsonld",
+	"dataModel.PointOfInterest" : "https://raw.githubusercontent.com/smart-data-models/dataModel.PointOfInterest/master/context.jsonld",
+	"dataModel.Device" : "https://raw.githubusercontent.com/smart-data-models/dataModel.Device/master/context.jsonld",
+	"dataModel.ParksAndGardens" : "https://raw.githubusercontent.com/smart-data-models/dataModel.ParksAndGardens/master/context.jsonld",
+	"dataModel.Diwise" : "https://raw.githubusercontent.com/diwise/context-broker/main/assets/jsonldcontexts/diwise-context.jsonld",
+	"dataModel.DiwiseWaterneter" : "https://raw.githubusercontent.com/diwise/context-broker/main/assets/jsonldcontexts/water-meter-context.jsonld"
+}	
+	
